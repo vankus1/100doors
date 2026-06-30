@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="100doors.vcxproj" Id="8147942b-e49e-4d03-bda0-674297c6d0d9" />
+</Solution>
